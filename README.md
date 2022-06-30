@@ -2,7 +2,7 @@
 
 I made a colourful the musical instrument ***MyXylophone***  app. 
 
-<img alt="image" src="MyXylophone.gif width = 25%"/>
+<img alt="image" src="MyXylophone.gif" width = 25%/>
 
 What I learned:
 
