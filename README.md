@@ -2,6 +2,8 @@
 
 I made a colourful the musical instrument ***MyXylophone***  app. 
 
+<img alt="image" src="MyXylophone.gif"/>
+
 What I learned:
 
 - How to play sound using AVFoundation and AVAudioPlayer.
